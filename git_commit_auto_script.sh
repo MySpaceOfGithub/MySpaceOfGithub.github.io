@@ -15,5 +15,4 @@ git commit -m  currentDate
 git pull origin main
 git push origin main
 
-
 exit 1
