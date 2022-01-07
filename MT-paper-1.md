@@ -1,6 +1,6 @@
 ---
-layout: page
-title: MT-Ppaer-1
+layout: default
+title: MT-Paper-1
 permalink: /mt/1/
 ---
 
