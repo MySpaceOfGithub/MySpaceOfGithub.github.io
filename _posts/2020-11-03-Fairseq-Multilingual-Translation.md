@@ -1,10 +1,11 @@
 ---
-layout: post 
-title: Fairseq Multilingual Translation
+layout: page 
+title: Multilingual Translation
 date: 2020-11-03 16:20:23 +0900 
 category: NLP
 tag: deeplearning
 ---
+
 Key developments:
 1. Many-to-Many multilingual translation model(non-English-Centric models) that can translate directly between any pair of 100 languages. 
 2. Covers thousands of language directions in training data.
