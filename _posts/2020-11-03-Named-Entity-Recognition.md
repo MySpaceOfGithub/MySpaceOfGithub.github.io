@@ -8,9 +8,9 @@ tag: deeplearning
 
 This is for NER papers
 
-[**NER-Paper-1**](https://myspaceofgithub.github.io/mt/1/)
+[**NER-Paper-1**](https://myspaceofgithub.github.io/ner/1/)
 
-[**NER-Paper-2**](https://myspaceofgithub.github.io/mt/2/)
+[**NER-Paper-2**](https://myspaceofgithub.github.io/ner/2/)
 
 
 1. [Customizing Grapheme-to-Phoneme System for Non-Trivial Transcription Problems in Bangla Language
